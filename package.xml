@@ -14,6 +14,7 @@
     independent of which binding provider was actually used which makes
     it very easy to switch between these.
   </description>
+  <maintainer email="dhood@osrfoundation.org">D. Hood</maintainer>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>
 
